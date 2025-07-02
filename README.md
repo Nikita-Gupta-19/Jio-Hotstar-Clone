@@ -1,4 +1,4 @@
-<h1>🎥 Jio Hotstar Clone</h1>
+<h1>🎥 Jio Hotstar Clone ⭐</h1>
 
 A sleek, responsive, and fully functional clone of the Jio Hotstar platform built using **HTML, CSS, and JavaScript**. This project replicates the core functionalities of Hotstar including video previews, different login profiles, watchlists, dynamic search functionality, different subscription modals, categorised content, layout and carousel similar to the official platform.
 

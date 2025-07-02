@@ -44,9 +44,25 @@ A sleek, responsive, and fully functional clone of the Jio Hotstar platform buil
 
 ## 🖼️ Screenshots
 
-| Homepage Carousel | Cards with Popup |
-|-------------------|------------------|
-| ![carousel](images/ss-carousel.png) | ![popup](images/ss-popup.png) |
+<p float="left">
+  <img src="Screenshots/Screenshot (449).png" width="500"/>
+  <img src="Screenshots/Screenshot (450).png" width="500"/>
+  <img src="Screenshots/Screenshot (451).png" width="500"/>
+  <img src="Screenshots/Screenshot (452).png" width="500"/>
+  <img src="Screenshots/Screenshot (453).png" width="500"/>
+  <img src="Screenshots/Screenshot (454).png" width="500"/>
+  <img src="Screenshots/Screenshot (455).png" width="500"/>
+  <img src="Screenshots/Screenshot (456).png" width="500"/>
+  <img src="Screenshots/Screenshot (457).png" width="500"/>
+  <img src="Screenshots/Screenshot (458).png" width="500"/>
+  <img src="Screenshots/Screenshot (459).png" width="500"/>
+  <img src="Screenshots/Screenshot (460).png" width="500"/>
+  <img src="Screenshots/Screenshot (461).png" width="500"/>
+  <img src="Screenshots/Screenshot (462).png" width="500"/>
+  <img src="Screenshots/Screenshot (463).png" width="500"/>
+  <img src="Screenshots/Screenshot (464).png" width="500"/>
+</p>
+
 
 ---
 
